@@ -1,5 +1,5 @@
-// AIzaSyCir1upxTVNH66qFKb9X5yFBqBZE1rZ60w
-export const API_KEY = "AIzaSyCir1upxTVNH66qFKb9X5yFBqBZE1rZ60w";
+
+export const API_KEY = "....";
 
 export const value_converter = (value) => {
   if(value>=1000000){
